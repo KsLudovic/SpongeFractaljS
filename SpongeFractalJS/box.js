@@ -1,7 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for this video: https://youtu.be/LG8ZK-rRkXo
+
 
 function Box(x, y, z, r) {
   this.pos = createVector(x, y, z);
